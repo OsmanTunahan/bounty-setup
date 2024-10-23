@@ -69,13 +69,3 @@ MyProgram_BBP/
 │   └── report_template.md
 └── README.md
 ```
-
-## Contributing
-
-Feel free to fork this project and submit pull requests if you have improvements or additional features to suggest.
-
-## License
-
-This project is open-source and available under the MIT License.
-
-This README provides a clear guide for users on what the program does, how to use it, and what to expect from the execution.
